@@ -1,0 +1,5 @@
+{
+  "description": "Test lib to run vcpkg",
+  "name": "vcpkg-test-lib",
+  "version": "0.0.1"
+}
